@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SzVbr6HJzyg26MVx__gg-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Route Pires&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="220" y="90" width="940" height="640" as="geometry" />
+        <mxCell id="SzVbr6HJzyg26MVx__gg-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Route Pires&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="110" width="940" height="620" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="SzVbr6HJzyg26MVx__gg-1" target="SzVbr6HJzyg26MVx__gg-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-1" value="Motoboy&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="120" width="30" height="60" as="geometry" />
+          <mxGeometry x="160" y="100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="SzVbr6HJzyg26MVx__gg-5" target="SzVbr6HJzyg26MVx__gg-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-8" value="&amp;lt;&amp;lt;System&amp;gt;&amp;gt;&lt;div&gt;Google Maps SDK&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="780" width="30" height="60" as="geometry" />
+          <mxGeometry x="560" y="760" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="SzVbr6HJzyg26MVx__gg-9" target="SzVbr6HJzyg26MVx__gg-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-9" value="&amp;lt;&amp;lt;System&amp;gt;&amp;gt;&lt;div&gt;API Directions&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="780" width="30" height="60" as="geometry" />
+          <mxGeometry x="820" y="760" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="SzVbr6HJzyg26MVx__gg-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-10" value="&amp;lt;&amp;lt;System&amp;gt;&amp;gt;&lt;div&gt;API Senatran&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1211" y="120" width="30" height="60" as="geometry" />
+          <mxGeometry x="1226" y="100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-113" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="SzVbr6HJzyg26MVx__gg-114" target="SzVbr6HJzyg26MVx__gg-89" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-16" value="Cadastrar Motoboy" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="470" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" parent="1" source="SzVbr6HJzyg26MVx__gg-21" target="SzVbr6HJzyg26MVx__gg-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -138,7 +138,7 @@
           <mxGeometry x="800" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-87" value="Avaliar Cliente" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="545" width="120" height="80" as="geometry" />
+          <mxGeometry x="760" y="545" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-89" value="Denunciar Usuario" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="450" width="120" height="80" as="geometry" />
@@ -169,7 +169,7 @@
           <mxGeometry x="1211" y="520" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-115" value="Definir Disponibilidade" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
