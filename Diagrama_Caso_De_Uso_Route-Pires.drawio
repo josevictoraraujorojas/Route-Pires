@@ -7,16 +7,6 @@
         <mxCell id="SzVbr6HJzyg26MVx__gg-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Route Pires&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="110" width="940" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="SzVbr6HJzyg26MVx__gg-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" target="SzVbr6HJzyg26MVx__gg-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="318.1171548117154" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SzVbr6HJzyg26MVx__gg-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" target="SzVbr6HJzyg26MVx__gg-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="502.5531914893618" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SzVbr6HJzyg26MVx__gg-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="SzVbr6HJzyg26MVx__gg-8" target="SzVbr6HJzyg26MVx__gg-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -176,6 +166,12 @@
           <mxGeometry x="150" y="270" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yies3kAfPGHvmTGmss2a-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="Yies3kAfPGHvmTGmss2a-9" target="SzVbr6HJzyg26MVx__gg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yies3kAfPGHvmTGmss2a-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="Yies3kAfPGHvmTGmss2a-9" target="SzVbr6HJzyg26MVx__gg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yies3kAfPGHvmTGmss2a-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=1;startFill=0;" edge="1" parent="1" source="Yies3kAfPGHvmTGmss2a-9" target="SzVbr6HJzyg26MVx__gg-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yies3kAfPGHvmTGmss2a-9" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
