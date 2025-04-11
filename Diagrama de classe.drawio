@@ -460,9 +460,6 @@
         <mxCell id="tFsuxvvVSS5gCeRt54mZ-65" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="tFsuxvvVSS5gCeRt54mZ-63" vertex="1">
           <mxGeometry y="116" width="220" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="tFsuxvvVSS5gCeRt54mZ-66" value="+ solicitarCorrida()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tFsuxvvVSS5gCeRt54mZ-63" vertex="1">
-          <mxGeometry y="124" width="220" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="tFsuxvvVSS5gCeRt54mZ-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;endSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tFsuxvvVSS5gCeRt54mZ-72" target="tFsuxvvVSS5gCeRt54mZ-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
