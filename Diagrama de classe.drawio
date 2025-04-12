@@ -563,7 +563,7 @@
           <mxGeometry y="34" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tFsuxvvVSS5gCeRt54mZ-103" value="Denuncia" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-190" y="543" width="220" height="276" as="geometry">
+          <mxGeometry x="-190" y="543" width="220" height="302" as="geometry">
             <mxRectangle x="220" y="120" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -596,6 +596,9 @@
         </mxCell>
         <mxCell id="SlO-6U7VMx7CLSL-qMpd-11" value="+ validarDenuncia" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="tFsuxvvVSS5gCeRt54mZ-103">
           <mxGeometry y="250" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SlO-6U7VMx7CLSL-qMpd-13" value="+ listaDenunciaPendente()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="tFsuxvvVSS5gCeRt54mZ-103">
+          <mxGeometry y="276" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tFsuxvvVSS5gCeRt54mZ-150" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;startFill=0;endFill=1;endSize=17;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tFsuxvvVSS5gCeRt54mZ-111" target="tFsuxvvVSS5gCeRt54mZ-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
