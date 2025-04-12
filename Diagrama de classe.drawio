@@ -462,7 +462,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tFsuxvvVSS5gCeRt54mZ-63" value="Passageiro" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="200" width="360" height="220" as="geometry">
+          <mxGeometry x="40" y="200" width="360" height="250" as="geometry">
             <mxRectangle x="220" y="120" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -487,8 +487,11 @@
         <mxCell id="SlO-6U7VMx7CLSL-qMpd-5" value="+ cadastrarPassageiro()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="tFsuxvvVSS5gCeRt54mZ-63">
           <mxGeometry y="184" width="360" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SlO-6U7VMx7CLSL-qMpd-6" value="+ verificarDados()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="tFsuxvvVSS5gCeRt54mZ-63">
+          <mxGeometry y="214" width="360" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="I86YvfGgXd9G2V8UG-uf-28" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=17;" parent="tFsuxvvVSS5gCeRt54mZ-63" vertex="1">
-          <mxGeometry y="214" width="360" height="6" as="geometry" />
+          <mxGeometry y="244" width="360" height="6" as="geometry" />
         </mxCell>
         <mxCell id="tFsuxvvVSS5gCeRt54mZ-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;endSize=17;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tFsuxvvVSS5gCeRt54mZ-72" target="tFsuxvvVSS5gCeRt54mZ-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
