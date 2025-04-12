@@ -352,6 +352,9 @@
         <mxCell id="tFsuxvvVSS5gCeRt54mZ-39" value="+ atualizarDisponibilidade()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" parent="tFsuxvvVSS5gCeRt54mZ-30" vertex="1">
           <mxGeometry y="206" width="300" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="SlO-6U7VMx7CLSL-qMpd-12" value="+ cadastrarMotoboy()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="tFsuxvvVSS5gCeRt54mZ-30">
+          <mxGeometry y="232" width="300" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="tFsuxvvVSS5gCeRt54mZ-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;endSize=17;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tFsuxvvVSS5gCeRt54mZ-40" target="tFsuxvvVSS5gCeRt54mZ-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
